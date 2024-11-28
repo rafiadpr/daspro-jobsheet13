@@ -29,7 +29,7 @@ public class Percobaan623 {
         L = hitungLuas(p, l);
         System.out.println("Luas Persegi Panjang adalah " + L);
 
-        vol = hitungVolume(t, p, L);
+        vol = hitungVolume(t, p, l);
         System.out.println("Volume balok adalah " + vol);
     }
 }
