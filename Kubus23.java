@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 public class Kubus23 {
 
     public static void main(String[] args) {
